@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Arsalan Zubairi
+# Hi 👋, I'm Arsalan Zubairi
 **A passionate Front-End Developer crafting clean and modern web experience**
 
 - 🔭 Currently working on: Building modern, responsive web interfaces
